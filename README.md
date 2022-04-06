@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lexioui
+- 👀 I’m interested in javascript
+- 🌱 I’m currently learning javascript
+- 💞️ I’m looking to collaborate on javascript
+- 📫 How to reach me : not available by now
